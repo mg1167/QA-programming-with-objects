@@ -1,0 +1,20 @@
+body{
+	background: #648880;
+ 	background: linear-gradient(to right, #f6f1d3, #648880 100%);
+}
+
+h1{
+	text-align: center;
+}
+
+img{
+	border-radius: 8px;
+}
+
+.cognits{
+	float: left;
+}
+
+.developer{
+	float: right;
+}
